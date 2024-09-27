@@ -283,6 +283,7 @@ li > .link:focus {
 
 .list-text {
   text-align: center;
+  padding: 8px;
 }
 
 /* Reused item header from main */
